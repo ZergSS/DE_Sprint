@@ -8,7 +8,7 @@ Date:   Sun Oct 30 20:14:41 2022 +0300
 
     Modified file README.md
 
-Ссылка на github коллеги: https://github.com/Ragnarok-039/DE_Sprint/ 
+Ссылка на github коллеги: https://github.com/Ragnarok-039/DE_Sprint/ <br>
 Последний commit:
  - 1e412b7f8635d91f9a039c0808ec4418be77765e
  - Fri Oct 28 09:53:11 2022 +0200
